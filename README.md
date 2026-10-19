@@ -2,7 +2,9 @@
 
 **Three-channel, configurable interlock monitoring for reporting switch closures and digital safety states to the Blinky-Lite control system.**
 
-<img src="interlock-cube.png" alt="interlock-cube" width="800"/>
+| Enclosure | PCB |
+|-----------|-----|
+|<img src="interlock-cube.png" alt="interlock-cube" width="400"/>|<img src="interlockPCB.png" alt="interlockPCB" width="400"/>
 
 ## Overview
 
